@@ -1,0 +1,23 @@
+Project details:
+    
+    Please note: You must install pygame in order for the game to
+    function properly! To do so, open your computer's terminal and type: pip install pygame
+    To get more information and ensure it was installed correctly, type: pip show pygame
+    
+    For this project, I don't think I realized how much I signed up for until I started 
+    doing it haha! Oh boy was there a learning curve! But, with the help of websites, 
+    video tutorials, ChatGPT, and the TAs, I miraculously created a functional
+    Oregon Trail (choose your own adventure) game! In this game, the player will be presented 
+    with a series of choices in which they must decide the appropriate course of action. 
+    Only once they get each choice correct will they reach the win screen. To make all this, 
+    I had to learn how to use "pygame," which is an open-source python module designed to
+    create games in python. While this isn't the greatest game you will ever play,
+    I'm actually very pleased with how it turned out, as I'd never attempted anything
+    even close to this before. I made 8 scripts, each with its own function, that are
+    imported at different times and even play inside one another.
+    
+    This class has been my first ever experience with Python,
+    though I have been exposed to some very basic coding in the past. Regardless, I
+    taught myself how to use python in a completely different way from what we 
+    learned, all while navigating a plethora of hurdles like scrapped attempts, 
+    window and computer crashes, permission errors from macOS, and more.
